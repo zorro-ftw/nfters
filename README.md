@@ -7,4 +7,5 @@ Landing page for NFT marketplace. Built with HTML, CSS and Javascript. This proj
 * Functional filtering
 * Responsiveness
 * DOM Manipulation
+* Sass
 * [Figma](https://www.figma.com/file/zWwZjOIjiTSgBn1cIMhuEp/Jagaad-Module-3-Project?node-id=0-1&t=eTrCpOt3aSiONPa0-0) file of the task
